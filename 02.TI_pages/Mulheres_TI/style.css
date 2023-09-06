@@ -1,0 +1,60 @@
+body{
+  text-align: center;
+  font-family: Open Sans, sans-serif;
+  font-size: 18px;
+  background-color: #ee7777fa;
+  background-image: ;
+  opacity: 0.8 ;
+  color: black;
+  line-height: 1,5;
+  margin: 0px 0px 30px 0px;
+  padding: 8%;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+h1 {
+  font-size: 80px;
+  color: black;
+  font-weight: 300;
+  margin: 0px 0px 30px 0px;
+}
+
+h2{
+  font-size: 50px;
+  color: black;
+  font-weight: 300;
+  margin: 0px 0px 30px 0px;
+}
+
+.first {
+  font-size: 18px;
+  color: black;
+  margin: 0px 0px 0px 0px;
+  padding: 2px 2px 2px 2px; 
+  letter-spacing: 2px;
+}
+  
+#Ada{
+  width: 230px;
+  height: 230px;
+  border-radius: 55%;
+  margin: 0px 0px 0px 0px;
+  display: inline-block;
+}
+
+#Grace{
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  margin: 0px 0px 0px 0px;
+  display: inline-block;
+}
+
+#Katherine{
+  width: 220px;
+  height: 220px;
+  border-radius: 50%;
+  margin: 0px 0px 0px 0px;
+  display: inline-block;
+}
