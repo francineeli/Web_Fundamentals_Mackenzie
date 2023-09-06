@@ -1,0 +1,99 @@
+body{
+    padding: 8%;
+    border-style: solid;
+    border-left-color: rgb(40, 88, 219);
+    border-right-color: rgb(40, 88, 219);
+    border-width: 0px 15px;
+    text-align: justify;
+    font-family: Open Sans, sans-serif;
+    font-size: 18px;
+    color: black;
+    text-align: center;
+    letter-spacing: 5px;
+    line-height: 1,5;
+    background-color: #6294d4fa;
+    opacity: 0.8;
+  }
+  
+h2 {
+    font-size: 80px;
+    font-weight: 300;
+    color: rgb(40, 90, 212);
+    margin: 0px 0px 30px 0px;
+  }
+  
+h3{
+    font-size: 50px;
+    font-weight: 300;
+    margin: 0px 0px 30px 0px;
+  }
+  
+h4 {
+    font-size: 30px;
+    font-weight: 300;
+    margin: 0px 0px 30px 0px;
+  }
+  
+.introducao {
+    font-size: 18px;
+    color: black;
+    margin: 0px 0px 30px 0px;
+    padding: 2px 2px 2px 2px; 
+    letter-spacing: 5px;
+}
+  
+.introducao h3 {
+    color: rgb(40, 90, 212);
+    text-decoration-line: underline;
+}
+
+.profissoes {
+   font-size: 18px;
+    color: black;
+    margin: 0px 0px 30px 0px;
+    padding: 2px 2px 2px 2px; 
+    letter-spacing: 5px;
+}
+  
+#topico {
+    color: rgb(40, 90, 212);
+} 
+.profissoes h3 {
+    color: rgb(40, 90, 212);
+    text-decoration-line: underline;
+} 
+
+.mulheres {
+    font-size: 18px;
+    color: black;
+    margin: 0px 0px 30px 0px;
+    padding: 2px 2px 2px 2px; 
+    letter-spacing: 5px;
+  }
+  
+.mulheres h3 {
+    color: rgb(40, 90, 212);  
+  }
+  
+.processador{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-size: cover;
+}
+
+
+li{
+    list-style-type: none;
+    line-height: 2;
+  }
+
+button{
+    font-size: 20px;
+    background-color: rgb(40, 90, 212);
+    border: 1px solid transparent;
+    padding: 2px 20px;
+    border-radius: 3px;
+    font-style: bold;
+}
+
