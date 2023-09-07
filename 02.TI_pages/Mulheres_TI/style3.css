@@ -1,0 +1,32 @@
+body {
+    margin: 10px;
+    background-color: #d59efa;
+    opacity: 0.8;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 1.6em;
+}
+
+caption {
+    font-size: 1.6em;
+    color: #8507da;
+    font-weight: bold;
+    margin: 1em 0 .5em 0;
+}
+
+label {
+    color: #8507da;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+#app-idade{
+    margin: 10px;
+    width: 400px;
+    padding: 20px;
+    color: #60089b;
+    font-style: bold;
+    background-color: #d165f1;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #8507da;
+}
