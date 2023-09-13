@@ -20,13 +20,29 @@ label {
     margin-bottom: 5px;
 }
 
-#app-idade{
-    margin: 10px;
-    width: 400px;
-    padding: 20px;
-    color: #60089b;
-    font-style: bold;
-    background-color: #d165f1;
-    border-radius: 5px;
-    box-shadow: 0 0 10px #8507da;
+.tabela {
+    float: left;
+    margin-left: 20px;
+}
+
+.images {
+    float: right;
+    margin-left: 20px;
+}
+
+#flower3 {
+    position: relative;
+    right: 5px;
+}
+
+#flower4{
+    position: relative;
+    top: -30px;
+    right: 100px;
+}
+
+#flower5 {
+    position: relative;
+    top: -60px;
+    right: 200px;
 }

@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <table border="2" width="50%">
+    <table class="tabela" border="2" width="50%">
         <caption>Dados Cadastrais</caption>
         <tr>
             <td>
@@ -61,14 +61,18 @@
             document.getElementById("exibeIdade").innerHTML = novoValor;
         }
     </script>
-    <form id="app-idade" action="">
-        <fieldset>
-            <legend>Idade</legend>
-            <input id="idade" type="range" min="18" max="65" value="18" onchange="mostrarIdade(this.value)">
-            <span id="exibeIdade">18</span>
-        </fieldset>
-    </form>
-    <br><br>
+
+    <section class="images">
+        <figure id="flower3">
+            <img src="img/flower3.jpeg" alt="Telefone 1">
+        </figure>
+        <figure id="flower4">
+            <img src="img/flower4.jpeg" alt="Campo de flores lavanda">
+        </figure>
+        <figure id="flower5">
+            <img src="img/flower5.jpeg" alt="Telefone 2">
+        </figure>
+    </section>
 </body>
 
 </html>

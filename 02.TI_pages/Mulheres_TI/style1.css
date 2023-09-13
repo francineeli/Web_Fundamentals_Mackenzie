@@ -129,3 +129,15 @@ button{
   border-radius: 3px;
   font-style: bold;
 }
+
+#buquet {
+  position: absolute;
+  top: 2px;
+  left: 15px;
+}
+
+#flower {
+  position: absolute;
+  top: 2px;
+  right: 15px;
+}
